@@ -1,7 +1,8 @@
 # progetto-javascript-advanced-di-Andrea-Altomare
 your favorite category
 ![image](https://github.com/user-attachments/assets/ca1d2aac-5817-43e1-a828-1a6e5062036d)
-![image](https://github.com/user-attachments/assets/7b535126-50ba-47a6-8cd7-bc03483c821f)
+![Unknown](https://github.com/user-attachments/assets/e922a52c-5b98-446b-a472-ade2f42d41df)
+
 
 
 
