@@ -44,7 +44,8 @@ module.exports = {
   devServer: {
     static: path.join(__dirname, "dist"),
     compress: true,
-    port: 9004,
-    open: true,
+    port: 8080, // Porta cambiata da 9004 a 8080
+    open: false, // Disabilitata l'apertura automatica del browser
   },
+
 };
