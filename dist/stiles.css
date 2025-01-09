@@ -1,0 +1,68 @@
+body {
+  background-color: rgb(140, 125, 197);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+}
+
+#button {
+  border-radius: 10px;
+  border: 2px solid rgb(78, 3, 228);
+  background-color: bisque;
+  width: 7em;
+  height: 3em;
+  text-align: center;
+  color: blue;
+  cursor: pointer;
+  margin-top: 1em;
+}
+
+h1 {
+  color: rgb(6, 2, 2);
+  text-align: center;
+}
+
+#inputField {
+  width: 80%;
+  max-width: 500px;
+  height: 2em;
+  margin-top: 1em;
+  padding: 0.5em;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Media Queries per schermi più piccoli */
+@media (max-width: 768px) {
+  #button {
+    width: 100%;
+    height: 2.5em;
+  }
+
+  #inputField {
+    width: 100%;
+    height: 2em;
+  }
+}
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 1.5em;
+  }
+
+  #button {
+    width: 100%;
+    font-size: 1em;
+  }
+
+  #inputField {
+    width: 100%;
+    font-size: 1em;
+  }
+}
+
+
+/*# sourceMappingURL=stiles.css.map*/
