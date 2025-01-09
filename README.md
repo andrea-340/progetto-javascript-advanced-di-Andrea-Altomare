@@ -5,13 +5,14 @@ your favorite category
 vi presento il mio progetto di js advanced!
 Applicazione per la ricerca di libri nel catalogo "Open Library", sviluppata come progetto finale del corso Javascript Advanced in Start2Impact.
 
-👉 [introduzione](https://github.com/user-attachments/files/18363419/AutoreAndrea.Altomare.pdf)
+👉 [introduzione](https://github.com/user-attachments/files/18364009/presentazione.di.Andrea.Altomare.pdf)
 👉 [Git](https://andrea-340.github.io/progetto-javascript-advanced-di-Andrea-Altomare/)
 👉 [Netlify(prova l'app)](https://677fd87f6011d97262e68329--cercalatuacategoriapreferita.netlify.app)
 
 
 
 •istruzioni dell'app:Selezionate la vostra categoria preferita e visualizzerete un elenco di libri. Sceglietene uno, cliccateci sopra e verranno mostrati il titolo e la descrizione del libro.
+
 
 
 
