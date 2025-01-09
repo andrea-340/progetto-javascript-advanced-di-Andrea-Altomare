@@ -5,9 +5,9 @@ your favorite category
 vi presento il mio progetto di js advanced!
 Applicazione per la ricerca di libri nel catalogo "Open Library", sviluppata come progetto finale del corso Javascript Advanced in Start2Impact.
 
-👉 [introduzione]()
-👉 [file git](https://andrea-340.github.io/progetto-javascript-advanced-di-Andrea-Altomare/)
-👉 [Netlify](https://677fd87f6011d97262e68329--cercalatuacategoriapreferita.netlify.app)
+👉 [introduzione](https://github.com/user-attachments/files/18363419/AutoreAndrea.Altomare.pdf)
+👉 [Git](https://andrea-340.github.io/progetto-javascript-advanced-di-Andrea-Altomare/)
+👉 [Netlify(prova l'app)](https://677fd87f6011d97262e68329--cercalatuacategoriapreferita.netlify.app)
 
 
 
@@ -23,7 +23,7 @@ Applicazione per la ricerca di libri nel catalogo "Open Library", sviluppata com
 
 
 •SPIEGAZIONE DELL'APP
-L'applicazione funziona tramite una barra di ricerca, simile a quella di Google, che permette agli utenti di cercare libri selezionando una categoria specifica (ad esempio, "Fantasia"). Una volta inserita la categoria, l'utente avvia la ricerca cliccando sul pulsante "Cerca". Al termine della ricerca, l'applicazione visualizza nella sezione "Risultati" un elenco di titoli e dei rispettivi autori. Cliccando su un titolo, l'utente può consultare la descrizione del libro nella sezione "Dettagli libro". Inoltre, tutte le ricerche effettuate vengono salvate e sono visibili nella sezione "Cronologia di ricerca".
+L'applicazione funziona tramite una barra di ricerca, simile a quella di Google, che permette agli utenti di cercare libri selezionando una categoria specifica (ad esempio, "Fantasia"). Una volta inserita la categoria, l'utente avvia la ricerca cliccando sul pulsante "near". Al termine della ricerca, l'applicazione visualizza nella sezione "Risultati" un elenco di libri con dei titoli e dei rispettivi autori. Cliccando su un libro, l'utente può consultare la descrizione del libro . 
 
 
 
