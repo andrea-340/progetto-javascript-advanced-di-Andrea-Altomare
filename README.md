@@ -1,6 +1,5 @@
 # progetto-javascript-advanced-di-Andrea-Altomare
 your favorite category
-<img width="302" alt="https://github.com/user-attachments/assets/4b94ca72-7f9e-435f-82ed-abbf6015cf8f">
 Questa è la prima volta che realizzo un progetto con Javascript!
 👉 [introduzione]()
 👉 [file git](https://andrea-340.github.io/progetto-javascript-advanced-di-Andrea-Altomare/)
